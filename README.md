@@ -175,14 +175,6 @@ For a deeper understanding of AI, machine learning, and data science, I recommen
 - The wonderful **Kaggle** community, which provided open datasets and insightful discussions.
 - **Udemy**, **Coursera**, and **edX** instructors who have helped me build a solid foundation in AI.
 
-## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/shsarv/Machine-Learning-Projects/blob/main/LICENSE.md) for more information.
 
-## Maintained By
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Sharma</b></sub></a><br /><a href="https://github.com/shsarv" title="github"><img src="https://img.shields.io/github/followers/shsarv?style=social"></a> <a href="https://twitter.com/sarveshroli/" title="twitter"><img src="https://img.shields.io/twitter/follow/sarveshroli?label=twitter&style=social"></a></td>
-   <tr>
-  <table>
